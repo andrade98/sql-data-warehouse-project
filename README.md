@@ -26,7 +26,7 @@ ___
 
 #### Objective
 Develop SQL-based analytics to deliver details insights into:
-- **Customer BEhavior**
+- **Customer Behavior**
 - **Product Perfonrmance**
 - **Sales Trends**
 These insights empower stakeholders with key buisiness metrics, enabling stractegic decision.
