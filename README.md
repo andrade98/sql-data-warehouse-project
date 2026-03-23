@@ -1,6 +1,7 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository!
+
+Welcome to the **Data Warehouse and Analytics Project** repository! <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b5e06b35-dbd5-4321-990b-51dc8b89319b" />
 This project demostrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics. 
 
 ## Project Requirements
